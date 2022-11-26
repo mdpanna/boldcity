@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eae6cb24.css",
+    "main.js": "/static/js/main.bdadab4e.js",
+    "static/media/contactpage_Bimg.jpg": "/static/media/contactpage_Bimg.e981c407780dfa5e1204.jpg",
+    "static/media/privatelessonpage_Bimg.jpg": "/static/media/privatelessonpage_Bimg.2ca08bba51d744140dc2.jpg",
+    "static/media/homepage_Bimg.jpg": "/static/media/homepage_Bimg.119782148991a94774aa.jpg",
+    "static/media/aboutpage_Bimg.jpg": "/static/media/aboutpage_Bimg.d538dbc95e6ad188aef2.jpg",
+    "static/media/virtualconspage_Bimg.jpg": "/static/media/virtualconspage_Bimg.5cbab47691d100737258.jpg",
+    "static/media/careerpage_Bimg.jpeg": "/static/media/careerpage_Bimg.e2d25a732a29f7667795.jpeg",
+    "static/media/onlineprogrampage_Bimg.jpeg": "/static/media/onlineprogrampage_Bimg.2b61129716e4ef312502.jpeg",
+    "static/media/boardtrainpage_Bimg.jpg": "/static/media/boardtrainpage_Bimg.eeb4939da44f9b1656c7.jpg",
+    "static/media/img7.png": "/static/media/img7.9f8ca8c32555ca19f16f.png",
+    "static/media/boardtrainpageimg1.jpg": "/static/media/boardtrainpageimg1.cf627e12e2a79b6447d6.jpg",
+    "static/media/privatelesssonimg1.jpeg": "/static/media/privatelesssonimg1.f14e44db90918c064019.jpeg",
+    "static/media/financepage_Bimg.jpg": "/static/media/financepage_Bimg.7e9eb8eaf52504597f61.jpg",
+    "static/media/img1.jpeg": "/static/media/img1.530d9c6d85f3074cad51.jpeg",
+    "static/media/img2.jpeg": "/static/media/img2.b3371a906d13f8fc2331.jpeg",
+    "static/media/img6.jpeg": "/static/media/img6.c7b62fb2c34ecedb4bdd.jpeg",
+    "static/media/img5.jpeg": "/static/media/img5.37a9a25038b024f391cb.jpeg",
+    "static/media/virtualconsImg.jpeg": "/static/media/virtualconsImg.35bb2953c41a0f022baf.jpeg",
+    "static/media/lendingusa.png": "/static/media/lendingusa.27b5aab5e353ebbd7df7.png",
+    "static/media/privatelesssonimg2.jpeg": "/static/media/privatelesssonimg2.b5a98f55409a2d6e6593.jpeg",
+    "static/media/img8.jpeg": "/static/media/img8.32a871b60257d1262574.jpeg",
+    "static/media/img3.png": "/static/media/img3.b193a6881371c6d0a05a.png",
+    "static/media/aboutimg2.jpg": "/static/media/aboutimg2.5645db6abb2847f70c71.jpg",
+    "static/media/programimg1.jpeg": "/static/media/programimg1.13ea679a8d9fe8256d8e.jpeg",
+    "static/media/img4.png": "/static/media/img4.a1cb9c9951687efb6707.png",
+    "static/media/programimg3.jpeg": "/static/media/programimg3.249546b781427921727b.jpeg",
+    "static/media/aboutimg1.jpg": "/static/media/aboutimg1.0f3ecc695f82bf9dcc94.jpg",
+    "static/media/BOLD+CITY+K9-logo-white.png": "/static/media/BOLD+CITY+K9-logo-white.4922fe0e63d44c65e6c6.png",
+    "static/media/paypalcredit.gif": "/static/media/paypalcredit.4ebfcda653f344425692.gif",
+    "static/media/programimg2.jpg": "/static/media/programimg2.36c676f4e2178e8c8848.jpg",
+    "static/media/sponser_img1.jpeg": "/static/media/sponser_img1.b2ad1120755e4cd5f122.jpeg",
+    "index.html": "/index.html",
+    "main.bdadab4e.js.map": "/static/js/main.bdadab4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eae6cb24.css",
+    "static/js/main.bdadab4e.js"
+  ]
+}
